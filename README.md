@@ -12,7 +12,7 @@ I am a big fan of Hugo, but recently a change was made to the theme generator wh
 
 * [Install Hugo](https://gohugo.io/installation/)
 * In a terminal, navigate to the directory where you would like to save your Hugo site and run the following command:
-    hugo new site <enter site name here>
+   hugo new site <enter site name here>
 * Navigate to the "themes" folder of your Hugo site and pull this repo. The final path should look something like <your site>/themes/empty-hugo-theme/
 * OPTIONAL - rename the folder something different from "empty-hugo-theme"
 * Open your hugo.toml file and add a line under the title referencing either "empty-hugo-theme" or whatever you renamed the theme, like this:
